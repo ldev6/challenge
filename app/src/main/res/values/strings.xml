@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AmpMe Challenge</string>
+    <string name="facebook_app_id">1822696421318077</string>
+    <string name="fb_login_protocol_scheme">fb1822696421318077</string>
+    <string name="ampme_challenge">AmpMe Challenge</string>
+
+    <string name="login">Login</string>
+    <string name="loging_failed">Login failed</string>
+    <string name="logout">Logout</string>
+
+    <string name="default_error_message">Internet not available</string>
+    <string name="error_message_serveur_prob">The server is unavailable</string>
+    <string name="error_message_serveur_prob_daily">Error the daily limit exceeded</string>
+    <string name="retry_connection">Retry</string>
+
+</resources>
