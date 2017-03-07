@@ -14,12 +14,12 @@ android {
     buildTypes {
         def YOUTUBE_KEY = "YOUTUBE_KEY"
         debug {
-            buildConfigField "String", YOUTUBE_KEY, '"AIzaSyBTA-bzmmoUoFNHYBxycQqj_OiJBdsWmz0"'
+            buildConfigField "String", YOUTUBE_KEY, '"AIzaSyCIECTUR6tQRJ6-OUFPilZa1LJsKmAQiFI"'
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
         release {
-            buildConfigField "String", YOUTUBE_KEY, '"AIzaSyBTA-bzmmoUoFNHYBxycQqj_OiJBdsWmz0"'
+            buildConfigField "String", YOUTUBE_KEY, '"AIzaSyCIECTUR6tQRJ6-OUFPilZa1LJsKmAQiFI"'
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
